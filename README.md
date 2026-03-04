@@ -1,6 +1,6 @@
 # Bug Bounty Methodology
 
-This repository contains my workflow for testing web applications during bug bounty programs.
+Personal methodology for web application penetration testing and bug bounty research.
 
 ## Reconnaissance
 - Identify target scope
